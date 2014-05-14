@@ -1,57 +1,361 @@
 UK	UNIQUE_GLOSS	ENGLISH_GLOSS	LWT_KEY	LWT_GLOSS	PART_OF_SPEECH	SEMANTIC_FIELD	OMEGA_WIKI	EXAMPLE CONTEXT/EXPLANATION	ENGLISH_GLOSS	SPANISH_GLOSS	Alternative Omega Wiki Links	FRENCH_GLOSS	PORTUGUESE_GLOSS	GERMAN_TRANSLATION	RUSSIAN_GLOSS
-91	THE SHORT DRY SEASON	short dry season	1.99909	the short dry season	Noun	The physical world	?		short dry season	corta estación seca ?		-	-	Trockenzeit	-
-189	THE PARENT'S ELDER BROTHER	parent's elder brother	2.99911	the parent's elder brother	Noun	Kinship	<don't link>		parent's elder brother	-		-	-	Onkel	-
-190	THE PARENT'S ELDER SISTER	parent's elder sister	2.99912	the parent's elder sister	Noun	Kinship	<don't link>		parent's elder sister	-		-	-	Tante	-
-191	THE PARENT'S YOUNGER BROTHER	parent's younger brother	2.99913	the parent's younger brother	Noun	Kinship	don't link>		parent's younger brother	-		-	-	Onkel	-
-192	THE PARENT'S YOUNGER SISTER	parent's younger sister	2.99914	the parent's younger sister	Noun	Kinship	don't link>		parent's younger sister	-		-	-	Tante	-
-326	THE ANDEAN GUINEA PIG	Andean guinea pig	3.99904	the Andean guinea pig	Noun	Animals	<don't link>	It is raised for food, medicine and ritual in the Andes	Andean guinea pig	?		cochon d'Inde	-	?	-
-327	THE ANDEAN OWL	Andean owl	3.99905	the Andean owl	Noun	Animals	<don't link>		Andean owl	búho andino		couchette	-	?	-
-344	THE MAINE LOBSTER	Maine lobster	3.99925	the Maine lobster	Noun	Animals	<don't link>		Maine lobster	bogavante de Maine		homard	-	Hummer	-
-346	THE MARAIL	marail	3.99928	the marail	Noun	Animals	<don't link>	k.o. bird	marail	-		-	-	?	-
-349	THE SLEEPYHEAD BIRD	sleepyhead bird	3.99931	the sleepyhead bird	Noun	Animals	<don't link>		sleepyhead bird	-		-	-	?	-
-632	THE AYAHUASCA	ayahuasca	5.99904	the ayahuasca	Noun	Food and drink	?	a psychoactive infusion prepared from the Banisteriopsis spp	ayahuasca			-	-	-	-
-641	THE MANIOC JUICE	manioc juice	5.99913	the manioc juice	Noun	Food and drink	?		manioc juice	zumo de la yuca ?		-	-	-	-
-639	THE JAPANESE FISH CAKE	Japanese fish cake	5.99911	the Japanese fish cake	Noun	Food and drink	?		Japanese fish cake	croqueta de pescado japonésa ?		-	-	-	-
-721	THE LEG BAND	leg band	6.99904	the leg band	Noun	Clothing and grooming	?		leg band	-		-	-	-	-
-646	THE ROASTED CASSAVA MEAL	roasted cassava meal	5.99917	the roasted cassava meal	Noun	Food and drink	?		roasted cassava meal			-	-	-	-
-725	THE SMOCK	smock	6.99909	the smock	Noun	Clothing and grooming	? unclear meaning		smock	bata corta		-	-	-	-
-782	THE CASE	case	7.99902	the case	Noun	The house	Concept unclear! (Furniture, luggage, ...?)		case	-		-	-	-	-
-871	THE ANDEAN WEED	Andean weed	8.99904	the Andean weed	Noun	Agriculture and vegetation	?		Andean weed	-		-	-	-	-
-874	THE BLACK TREE DYE	black tree dye	8.99907	the black tree dye	Noun	Agriculture and vegetation	?		black tree dye	-		-	-	-	-
-879	THE CHINESE RICE FLOWER	Chinese rice flower	8.99912	the Chinese rice flower	Noun	Agriculture and vegetation	?		Chinese rice flower	-		-	-	-	-
-883	THE MORTIÑO	mortiño	8.99917	the mortiño	Noun	Agriculture and vegetation	?		mortiño	-		-	-	-	-
-886	THE JARILLA	jarilla	8.99922	the jarilla	Noun	Agriculture and vegetation	?		jarilla	-		-	-	-	-
-887	THE JOWAR	jowar	8.99923	the jowar	Noun	Agriculture and vegetation	?		jowar	-		-	-	-	-
-892	THE MAMUELCHOIQUE	mamuelchoique	8.99929	the mamuelchoique	Noun	Agriculture and vegetation	?		mamuelchoique	-		-	-	-	-
-896	THE MILLET	millet	8.99933	the millet	Noun	Agriculture and vegetation	doublette		millet	mijo		-	-	-	-
-905	THE SENSITIVE MIMOSA	sensitive mimosa	8.99945	the sensitive mimosa	Noun	Agriculture and vegetation	? unclear meaning		sensitive mimosa	mimosa ?		-	-	-	-
-910	THE TREE DYE	tree dye	8.9995	the tree dye	Noun	Agriculture and vegetation	?		tree dye	tinte de árbol		-	-	-	-
-915	THE WILD MAIZE	wild maize	8.99956	the wild maize	Noun	Agriculture and vegetation	?		wild maize	-		-	-	-	-
-1018	THE HEARTHSTONES	hearthstones	9.99912	the hearthstones	Noun	Basic actions and technology	? unclear meaning		hearthstones	-		-	-	-	-
-1019	THE MANIOC SQUEEZER	manioc squeezer	9.99914	the manioc squeezer	Noun	Basic actions and technology	?		manioc squeezer	-		-	-	-	-
-1024	THE SKIN BAG	skin bag	9.9992	the skin bag	Noun	Basic actions and technology	?		skin bag	-		-	-	-	-
-1038	TO MUDDLE	muddle	9.99933	to muddle	Verb	Basic actions and technology	?		to muddle	-		-	-	-	-
-1130	TO CARRY ON THE BACK	carry on the back	10.99903	to carry on the back	Verb	Motion	?		to carry on back	-		-	-	-	-
-1132	TO GIVE A RIDE	give a ride	10.99905	to give a ride	Verb	Motion	?		to give a ride	-		-	-	-	-
-1190	THE RECEIVE	receive	11.99907	to receive	Noun	Possession	?		to receive	-		-	-	-	-
-1309	BY	by	13.99902	by	Function word	Quantity	? unklare Bedeutung		by	-		-	-	-	-
-1615	THE VIOLIN PLAYER	violin player	18.99907	the violin player	Noun	Speech and language	?		violin player	-		-	-	-	-
-1620	THE ULULATE	ululate	18.99912	to ululate	Noun	Speech and language	?		to ululate	-		-	-	-	-
-1673	THE COMMUNAL LABOUR	communal labour	19.99916	the communal labour	Noun	Social and political relations	?		communal labour	-		-	-	-	-
-1678	THE FOREMAN	foreman	19.99921	the foreman	Noun	Social and political relations	? unclear meaning		foreman	-		-	-	-	-
-1680	THE GOVERNMENT DOCUMENT	government document	19.99923	the government document	Noun	Social and political relations	?		government document	-		-	-	-	-
-1689	THE SMALL CHANGE	small change	19.99933	the small change	Noun	Social and political relations	? unclear meaning		small change	-		-	-	-	-
-1684	THE MIXED-RACE KALI'NA	mixed-race Kali'na	19.99927	the mixed-race Kali'na	Noun	Social and political relations	?		mixed-race Kali'na	-		-	-	-	-
-1695	THE POLE	pole	19.99937	the vote or ballot or pole	Noun	Social and political relations	? unclear meaning		vote or ballot or pole	-		-	-	-	-
-1746	THE GAME ANIMAL	game animal	20.99904	the game animal	Noun	Warfare and hunting	?		game animal	-		-	-	-	-
-1747	THE LETTERWOOD BOW	letterwood bow	20.99905	the letterwood bow	Noun	Warfare and hunting	?		letterwood bow	-		-	-	-	-
-1820	THE SHAMAN'S SPIRIT	shaman's spirit	22.99912	the shaman's spirit	Noun	Religion and belief	?		shaman's spirit	-		-	-	-	-
-1821	THE SHAMANISTIC SONG	shamanistic song	22.99913	the shamanistic song	Noun	Religion and belief	?		shamanistic song	-		-	-	-	-
-1822	THE WOMAN'S RATTLE	woman's rattle	22.99914	the woman's rattle	Noun	Religion and belief	?		woman's rattle	-		-	-	-	-
-1906	(INTERROGATIVE)		24.99905	(interrogative)	Function word	Miscellaneous function words	?		(interrogative)	-		-	-	-	-
-1907	LET	let	24.99906	let	Function word	Miscellaneous function words	?		let	-	http://www.omegawiki.org/DefinedMeaning:allow_(1504322)	-	-	-	-
-1908	(NEGATIVE MARKER)		24.99907	(negative marker)	Function word	Miscellaneous function words	?		(negative marker)	-		-	-	-	-
-1912	(SUPERLATIVE MARKER)		24.99911	(superlative marker)	Function word	Miscellaneous function words	?		(superlative marker)	-		-	-	-	-
-1917	YOU (DUAL)	you	24.99919	you (dual)	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:we_(5456),not really, does not limit the group to two referents. Neele		you (dual)	-		-	-	-	-
-1954	THE SWIDDEN FIELD	swidden field	0.37	-	-	-	?	-	-	-		-	-	-	-
-1957	TO BE MANY	be many	0.4	-	-	-	?	-	-	-		-	-	-	-
+868	THE ALMOND	almond	8.99901	the almond	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:amandel_(361201)		almond	almendra, almendro		-	-	-	-
+869	THE AMOMUM	amomum	8.99902	the amomum	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:amomum_(1510881)		amomum	-		-	-	-	-
+870	THE ANATTO	anatto	8.99903	the anatto	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:anatto_(1510885)		anatto	-		-	-	-	-
+872	THE APPLE	apple	8.99905	the apple	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:apple_(5781)		apple	manzana		-	-	-	-
+873	THE ASH TREE	ash tree	8.99906	the ash tree	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:ash_(474721)		ash tree	fresno		-	-	-	-
+875	THE BROCCOLI	broccoli	8.99908	the broccoli	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:broccoli_(358603)		broccoli	brócoli, brécol		-	-	-	-
+876	THE BROMELIA	bromelia	8.99909	the bromelia	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:bromelia_(1510889)		bromelia	-		-	-	-	-
+878	THE CASHEW	cashew	8.99911	the cashew	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:cashew_nut_(1318006)		cashew	anarcado, acajú		-	-	-	-
+880	THE CONIFEROUS TREE	coniferous tree	8.99914	the coniferous tree	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:coniferous_tree_(5063)		coniferous tree	conífera		-	-	-	-
+881	THE COTTONTREE	cottontree	8.99915	the cottontree	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:cotton_plant_(1300711)		cottontree	algodón		-	-	-	-
+882	THE CREEPER	creeper	8.99916	the creeper	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:creeper_(1510893)		creeper	enredadera		-	-	-	-
+920	TO PICK	pick	8.99961	to pick	Verb	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:cull_(1165666)		to pick	recoger		-	-	-	-
+884	THE DUNG	dung	8.99918	the dung	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:dung_(1275135)		dung	estiércol		-	-	-	-
+919	TO GROW (TRANSITIVE)	grow	8.9996	to grow(2)	Verb	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:grow_(1539804)		to grow(2)	cultivar		-	-	-	-
+885	THE GUAVA	guava	8.99921	the guava	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:guava_(1510897)		guava	guayaba		-	-	-	-
+888	THE KOHLRABI	kohlrabi	8.99924	the kohlrabi	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:kålrabbi_(1043887)		kohlrabi	colinabo		-	-	-	-
+889	THE LIANA	liana	8.99925	the liana	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:liana_(1510901)		liana	liana		-	-	-	-
+890	THE LIMA BEANS	lima beans	8.99926	the lima beans	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:lima_bean_(1510905)		lima beans	-		-	-	-	-
+891	THE LUPIN	lupin	8.99927	the lupin	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:lupin_(1510909)		lupin	lupino, altrmuz		-	-	-	-
+893	THE MANGO	mango	8.9993	the mango	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:mango_(395778)		mango	mango		-	-	-	-
+894	THE MANGROVE	mangrove	8.99931	the mangrove	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:mangrove_(1510912)		mangrove	mangle, manglar		-	-	-	-
+895	THE MELON	melon	8.99932	the melon	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:meloen_(157304)		melon	melón, sandía		-	-	-	-
+877	THE CARROT	carrot	8.9991	the carrot	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:Möhre_(424192)		carrot	zanahoria		-	-	-	-
+911	THE TURNIP	turnip	8.99952	the turnip	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:navet_(941734)		turnip	nabo		-	-	-	-
+897	THE ONION	onion	8.99935	the onion	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:onion_(343780)		onion	cebolla	http://www.omegawiki.org/DefinedMeaning:Zwiebel_(1285266)	-	-	-	-
+898	THE ORANGE	orange	8.99936	the orange	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:orange_(5821)		orange	naranja		-	-	-	-
+899	THE PEA	pea	8.99937	the pea	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:pea_(726623)		pea	guisante, arveja		-	-	-	-
+900	THE PEAR	pear	8.99938	the pear	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:pear_(393831)		pear	pera		-	-	-	-
+901	THE PINEAPPLE	pineapple	8.99939	the pineapple	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:pineapple_(984034)		pineapple	piña		-	-	-	-
+902	THE PLUM	plum	8.99941	the plum	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:prune_(941830)		plum	ciruela		-	-	-	-
+903	THE REED	reed	8.99943	the reed	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:reed_(3137)		reed	junco, totora		-	-	-	-
+904	THE RUBBER TREE	rubber tree	8.99944	the rubber tree	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:rubber_tree_(1510916)		rubber tree	árbol del caucho		-	-	-	-
+913	THE WATERMELON	watermelon	8.99954	the watermelon	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:sand%C3%ADa_(458943)		watermelon	sandía		-	-	-	-
+917	THE WOODY SHRUB	woody shrub	8.99958	the woody shrub	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:shrub_(3414)		woody shrub	arbusto leñoso		-	-	-	-
+906	THE STRAW	straw	8.99946	the straw	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:straw_(1510919)		straw	paja		-	-	-	-
+907	THE SUGAR BEET	sugar beet	8.99947	the sugar beet	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:sugar_beet_(1319542)		sugar beet	remolacha azucarera		-	-	-	-
+908	THE TAR	tar	8.99948	the tar	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:tar_(3708)		tar	alquitrán		-	-	-	-
+909	THE TARO	taro	8.99949	the taro	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:taro_(1510923)		taro	-		-	-	-	-
+912	THE VETCH	vetch	8.99953	the vetch	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:vetch_(1510927)		vetch	arveja, veza		-	-	-	-
+914	THE WHIP	whip	8.99955	the whip	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:whip_(440217)		whip	l´tigo, chicote, fuete		-	-	-	-
+916	THE WILLOW	willow	8.99957	the willow	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:willow_(352435)		willow	sauce		-	-	-	-
+918	THE YERBA MATE	yerba mate	8.99959	the yerba mate	Noun	Agriculture and vegetation	http://www.omegawiki.org/DefinedMeaning:yerba_mate_(802681)		yerba mate	yerba mate		-	-	-	-
+871	THE ANDEAN WEED	Andean weed	8.99904	the Andean weed	Noun	Agriculture and vegetation	NA		Andean weed	-		-	-	-	-
+874	THE BLACK TREE DYE	black tree dye	8.99907	the black tree dye	Noun	Agriculture and vegetation	NA		black tree dye	-		-	-	-	-
+879	THE CHINESE RICE FLOWER	Chinese rice flower	8.99912	the Chinese rice flower	Noun	Agriculture and vegetation	NA		Chinese rice flower	-		-	-	-	-
+883	THE MORTIÑO	mortiño	8.99917	the mortiño	Noun	Agriculture and vegetation	NA		mortiño	-		-	-	-	-
+886	THE JARILLA	jarilla	8.99922	the jarilla	Noun	Agriculture and vegetation	NA		jarilla	-		-	-	-	-
+887	THE JOWAR	jowar	8.99923	the jowar	Noun	Agriculture and vegetation	NA		jowar	-		-	-	-	-
+892	THE MAMUELCHOIQUE	mamuelchoique	8.99929	the mamuelchoique	Noun	Agriculture and vegetation	NA		mamuelchoique	-		-	-	-	-
+896	THE MILLET	millet	8.99933	the millet	Noun	Agriculture and vegetation	NA		millet	mijo		-	-	-	-
+905	THE SENSITIVE MIMOSA	sensitive mimosa	8.99945	the sensitive mimosa	Noun	Agriculture and vegetation	NA		sensitive mimosa	mimosa ?		-	-	-	-
+910	THE TREE DYE	tree dye	8.9995	the tree dye	Noun	Agriculture and vegetation	NA		tree dye	tinte de árbol		-	-	-	-
+915	THE WILD MAIZE	wild maize	8.99956	the wild maize	Noun	Agriculture and vegetation	NA		wild maize	-		-	-	-	-
+921	TO RAISE	raise	8.99962	to raise	Verb	Agriculture and vegetation	NA		to raise	cultivar		-	-	-	-
+324	THE AGOUTI	agouti	3.99902	the agouti	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:agouti_(1510408)	A burrowing rodent of the genus Dasyprocta, native to tropical America and usually having brown fur streaked with gray	agouti	agouti		agouti	-	Aguti	-
+325	THE AMPHIBIAN	amphibian	3.99903	the amphibian	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:amphibian_(162)		amphibian	anfibio/anfibia		amphibien	-	Amphibie	-
+328	THE ARMADILLO	armadillo	3.99906	the armadillo	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:armadillo_(817621)		armadillo	armadillo		tatou	-	Gürteltier	-
+329	THE BANDICOOT	bandicoot	3.99907	the bandicoot	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:bandicoot_(1510412)		bandicoot	?		-	-	Nasenbeutler	-
+330	THE BARN OWL	barn owl	3.99908	the barn owl	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:barn_owl_(1510416)		barn owl	lechuza		effraie	-	Schleiereule	-
+331	THE BUSTARD	bustard	3.99909	the bustard	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:bustard_(1510420)		bustard	avutarda		outarde	-	Trappe	-
+332	THE CAPIBARA	capibara	3.9991	the capibara	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:capibara_(1510424)	A large semiaquatic rodent (Hydrochoerus hydrochaeris) of tropical South America	capibara	capibara		-	-	Wasserschwein	-
+333	THE CATERPILLAR	caterpillar	3.99911	the caterpillar	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:caterpillar_(914040)		caterpillar	oruga		chenille	-	Raupe	-
+334	THE CODFISH	codfish	3.99912	the codfish	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:cod_(848799)		codfish	bacalao, abadejo		cabillaud, morue	-	Dorsch	-
+335	THE CONDOR	condor	3.99913	the condor	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:condor_(1510432)		condor	condor		condor	-	Kondor	-
+355	THE PRAIRIE DOG	prairie dog	3.99937	the prairie dog	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:dlǫ́ǫ́ʼ_(367712)		prairie dog	-		-	-	Präriehund	-
+336	THE HERD	herd	3.99917	the herd	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:herd_(1510435)		herd	manada	http://www.omegawiki.org/DefinedMeaning:herd_(1510438)	troupeau	-	Herde	-
+337	THE HOCCO	hocco	3.99918	the hocco	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:hocco_(1510442)	the crested curassow, also called royal pheasant	hocco	-		-	-	?	-
+339	THE IBIS	ibis	3.9992	the ibis	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:ibis_(1510446)		ibis	ibis		ibis	-	Ibis	-
+342	THE KINGFISHER	kingfisher	3.99923	the kingfisher	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:ijsvogel_(654563)		kingfisher	martín pescador		martin-pêcheur	-	Eisvogel	-
+341	THE JABIRU	jabiru	3.99922	the jabiru	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:jabiru_(1510450)	k.o. bird	jabiru	jabirú		-	-	Jabiru	-
+338	THE HUMMING BIRD	humming bird	3.99919	the humming bird	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:kolibrie_(652702)		humming bird	colibrí		colibri	-	Kolibri	-
+340	THE IGUANA	iguana	3.99921	the iguana	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:leguaan_(647456)		iguana	iguana		iguane	-	Leguan	-
+343	THE LOUSE	louse	3.99924	the louse	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:louse_(5980)		louse	piojo		pou	-	Laus	-
+354	THE POUCHED MARMOT	pouched marmot	3.99936	the pouched marmot	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:marmot_(1048856)		pouched marmot	marmota ?		marmotte	-	Murmeltier	-
+347	THE MOLE	mole	3.99929	the mole	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:mol_(8385)	the animal	mole	topo		taupe	-	Maulwurf	-
+348	THE PACA	paca	3.9993	the paca	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:paca_(1510460)	A large nocturnal burrowing rodent of the genus Cuniculus, found in South and Central America	paca	tepezcuintle		-	-	Paka	-
+350	THE PARTRIDGE	partridge	3.99932	the partridge	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:patrijs_(664663)		partridge	perdiz		perdrix	-	Rebhuhn	-
+351	THE PET	pet	3.99933	the pet	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:pet_(2758)		pet	animal doméstico		animal domestique	-	Haustier	-
+352	THE PIRANHA	piranha	3.99934	the piranha	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:piranha_(1510464)		piranha	piranha		piranha	-	Piranha	-
+353	THE PLOVER	plover	3.99935	the plover	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:plover_(1510468)		plover	chorlito		-	-	Regenpfeifer	-
+356	THE ROADRUNNER	roadrunner	3.99938	the roadrunner	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:roadrunner_(1510472)		roadrunner	-		-	-	Rennkuckuck	-
+357	THE SKUNK	skunk	3.99939	the skunk	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:skunk_(1255367)		skunk	mofeta		moufette	-	Stinktier	-
+358	THE SONGBIRD	songbird	3.9994	the songbird	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:songbird_(3552)		songbird	pájaro cantor		oiseau chanteur	-	Singvogel	-
+359	THE SPARROW	sparrow	3.99941	the sparrow	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:sparrow_(7891)		sparrow	gorrión		moineau	-	Spatz	-
+362	THE CHIPMUNK	chipmunk	3.99944	the chipmunk	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:tamia_(404160)		chipmunk	ardilla f listada		tamias	-	Streifenhörnchen	-
+360	THE TIGER	tiger	3.99942	the tiger	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:tiger_(8437)		tiger	tigre		tigre	-	Tiger	-
+361	THE TRUMPETER BIRD	trumpeter bird	3.99943	the trumpeter bird	Noun	Animals	http://www.omegawiki.org/DefinedMeaning:trumpeter_bird_(1510476)		trumpeter bird	-		-	-	Trompetervogel	-
+326	THE ANDEAN GUINEA PIG	Andean guinea pig	3.99904	the Andean guinea pig	Noun	Animals	NA	It is raised for food, medicine and ritual in the Andes	Andean guinea pig	?		cochon d'Inde	-	?	-
+327	THE ANDEAN OWL	Andean owl	3.99905	the Andean owl	Noun	Animals	NA		Andean owl	búho andino		couchette	-	?	-
+344	THE MAINE LOBSTER	Maine lobster	3.99925	the Maine lobster	Noun	Animals	NA		Maine lobster	bogavante de Maine		homard	-	Hummer	-
+345	THE MALE PIG	male pig	3.99926	the male pig	Noun	Animals	NA		male pig	cerdo		verrat	-	Eber	-
+346	THE MARAIL	marail	3.99928	the marail	Noun	Animals	NA	k.o. bird	marail	-		-	-	?	-
+349	THE SLEEPYHEAD BIRD	sleepyhead bird	3.99931	the sleepyhead bird	Noun	Animals	NA		sleepyhead bird	-		-	-	?	-
+1022	THE SACK	sack	9.99917	the sack	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:bag_(7726)		sack	-		-	-	-	-
+1007	THE BARREL	barrel	9.99901	the barrel	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:barrel_(1501251)		barrel	-		-	-	-	-
+1008	THE BASKETRY	basketry	9.99902	the basketry	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:basketry_(1510968)		basketry	-		-	-	-	-
+1032	THE WHEELBARROW	wheelbarrow	9.99927	the wheelbarrow	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:brouette_(7914)		wheelbarrow	-		-	-	-	-
+1009	THE BUCKET	bucket	9.99903	the bucket	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:bucket_(7811)		bucket	-		-	-	-	-
+1010	THE CABLE	cable	9.99904	the cable	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:cable_(467)		cable	-		-	-	-	-
+1011	THE CANVAS SHEET	canvas sheet	9.99905	the canvas sheet	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:canvas_(389156)		canvas sheet	-		-	-	-	-
+1028	THE CORD	cord	9.99923	the string or cord	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:cord_(690122)		string or cord	-		-	-	-	-
+1012	THE CORRUGATED IRON	corrugated iron	9.99906	the corrugated iron	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:corrugated_iron_(1012677)		corrugated iron	-		-	-	-	-
+1013	THE DECK	deck	9.99907	the deck	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:deck_(1393199)		deck	-		-	-	-	-
+1035	TO DRAW	draw	9.9993	to draw	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:draw_(339931)		to draw	-	http://www.omegawiki.org/DefinedMeaning:draw_(339936), http://www.omegawiki.org/DefinedMeaning:draw_(339947)	-	-	-	-
+1014	THE DRILL	drill	9.99908	the drill	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:drill_(1501234)		drill	-		-	-	-	-
+1036	TO DWELL	dwell	9.99931	to dwell	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:dwell_(1510985)		to dwell	-		-	-	-	-
+1015	THE FILE	file	9.99909	the file	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:file_(637005)		file	-		-	-	-	-
+1033	THE BARBECUE	barbecue	9.99928	to barbecue	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:grilla_(155842)		to barbecue	-		-	-	-	-
+1017	THE HARPOON	harpoon	9.99911	the harpoon	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:harpoon_(358355)		harpoon	-		-	-	-	-
+1025	THE SLAP	slap	9.99921	the slap	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:ohrfeigen_(668359)		slap	-		-	-	-	-
+1020	THE PENCIL	pencil	9.99915	the pencil	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:pencil_(5835)		pencil	-		-	-	-	-
+1039	TO PREPARE	prepare	9.99934	to prepare	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:prepare_(839207)		to prepare	-	http://www.omegawiki.org/DefinedMeaning:prepare_(839217), http://www.omegawiki.org/DefinedMeaning:train_(1503401)	-	-	-	-
+1021	THE RUST	rust	9.99916	the rust	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:rust_(155734)		rust	-		-	-	-	-
+1023	THE SCRAPER	scraper	9.99918	the scraper	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:scraper_(1510974)		scraper	-		-	-	-	-
+1040	TO SMEAR	smear	9.99936	to smear	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:smear_(1510989)		to smear	-		-	-	-	-
+1026	THE SPUR	spur	9.99922	the spur	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:spur_(1399469)		spur	-		-	-	-	-
+1027	THE STRING	string	9.99923	the string or cord	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:string_(1510977)		string or cord	-		-	-	-	-
+1041	TO SUPPORT	support	9.99938	to support	Verb	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:sufragar_(475957)		to support	-	http://www.omegawiki.org/DefinedMeaning:support_(476003), http://www.omegawiki.org/DefinedMeaning:appoggio_(477046), http://www.omegawiki.org/DefinedMeaning:substantiate_(717063)	-	-	unterstützen	-
+1029	THE TRAIL	trail	9.99924	the trail	Noun	Basic actions and technology	http://www.omegawiki.org/DefinedMeaning:trail_(1510981)		trail	-		-	-	-	-
+1016	THE HARBOUR	harbour	9.9991	the harbour	Noun	Basic actions and technology	NA		harbour	-		-	-	-	-
+1018	THE HEARTHSTONES	hearthstones	9.99912	the hearthstones	Noun	Basic actions and technology	NA		hearthstones	-		-	-	-	-
+1019	THE MANIOC SQUEEZER	manioc squeezer	9.99914	the manioc squeezer	Noun	Basic actions and technology	NA		manioc squeezer	-		-	-	-	-
+1024	THE SKIN BAG	skin bag	9.9992	the skin bag	Noun	Basic actions and technology	NA		skin bag	-		-	-	-	-
+1030	THE WELL	well	9.99925	the well	Noun	Basic actions and technology	NA		well	-		-	-	-	-
+1031	THE WHARF	wharf	9.99926	the wharf	Noun	Basic actions and technology	NA		wharf	-		-	-	-	-
+1034	TO CLOSE	close	9.99929	to close	Verb	Basic actions and technology	NA		to close	-		-	-	-	-
+1037	TO GO AWAY	go away	9.99932	to go away	Verb	Basic actions and technology	NA		to go away	-		-	-	-	-
+1038	TO MUDDLE	muddle	9.99933	to muddle	Verb	Basic actions and technology	NA		to muddle	-		-	-	-	-
+719	THE BAG	bag	6.99901	the bag	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:bag_(354587)		bag	bolsa	http://www.omegawiki.org/DefinedMeaning:bag_(7726)	-	-	-	-
+726	THE STYLE	style	6.9991	the style or fashion	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:estilo_(494229)		style or fashion	moda, estilo ?		-	-	-	-
+727	THE FASHION	fashion	6.9991	the style or fashion	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:fashion_(507088)		style or fashion	moda		-	-	-	-
+720	THE FRINGE	fringe	6.99903	the fringe	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:fringe_(1510574)		fringe	flecos		-	-	-	-
+722	THE POMPOM	pompom	6.99906	the pompom	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:pom-pom_(158094)		pompom	-		-	-	-	-
+723	THE SANDAL	sandal	6.99907	the sandal	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:sandal_(1383890)		sandal	sandalia		-	-	-	-
+724	THE SLEEVE	sleeve	6.99908	the sleeve	Noun	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:sleeve_(1414327)		sleeve	manga		-	-	-	-
+728	TO WEAR	wear	6.99911	to wear	Verb	Clothing and grooming	http://www.omegawiki.org/DefinedMeaning:wear_(420726)		to wear	llevar		-	-	-	-
+721	THE LEG BAND	leg band	6.99904	the leg band	Noun	Clothing and grooming	NA		leg band	-		-	-	-	-
+725	THE SMOCK	smock	6.99909	the smock	Noun	Clothing and grooming	NA		smock	bata corta		-	-	-	-
+1557	THE POSSIBILITY	possibility	17.99902	the possibility	Noun	Cognition	http://www.omegawiki.org/DefinedMeaning:chance_(334946)		possibility	-		-	-	-	-
+1556	ON PURPOSE	on purpose	17.99901	on purpose	Adverb	Cognition	http://www.omegawiki.org/DefinedMeaning:conscious_(441581)		on purpose	-	http://www.omegawiki.org/DefinedMeaning:adrede_(1115125)	-	-	-	-
+1559	THE SCARCITY	scarcity	17.99904	the scarcity	Noun	Cognition	http://www.omegawiki.org/DefinedMeaning:dearth_(1025845)		scarcity	-		-	-	-	-
+1562	TO DOUBT	doubt	17.99907	to doubt	Verb	Cognition	http://www.omegawiki.org/DefinedMeaning:doubt_(6812)		to doubt	-		-	-	-	-
+1560	THE STATE	state	17.99905	the state	Noun	Cognition	http://www.omegawiki.org/DefinedMeaning:estado_(481714)		state	-		-	-	-	-
+1558	SAME	same	17.99903	the same	Function word	Cognition	http://www.omegawiki.org/DefinedMeaning:identical_(1407061)		same	-		-	-	-	-
+1561	THE STUDY	study	17.99906	the study	Noun	Cognition	http://www.omegawiki.org/DefinedMeaning:study_(8493)		study	-	http://www.omegawiki.org/DefinedMeaning:contemplation_(1001099), http://www.omegawiki.org/DefinedMeaning:study_(8495)	-	-	-	-
+1495	TO BE ASHAMED	be ashamed	16.99907	to be ashamed	Verb	Emotions and values	http://www.omegawiki.org/DefinedMeaning:ashamed_(823950)		to be ashamed	-		-	-	-	-
+1489	BETTER	better	16.99901	better	Adjective	Emotions and values	http://www.omegawiki.org/DefinedMeaning:better_(333350)		better	-		-	-	-	-
+1497	TO COMPLAIN	complain	16.99909	to complain	Verb	Emotions and values	http://www.omegawiki.org/DefinedMeaning:complain_(1416804)		to complain	-		-	-	-	-
+1498	TO ENTHUSE	enthuse	16.9991	to enthuse	Verb	Emotions and values	http://www.omegawiki.org/DefinedMeaning:enthuse_(1083905)		to enthuse	-	http://www.omegawiki.org/DefinedMeaning:enthuse_(1083894)	-	-	-	-
+1500	TO PRAISE	praise	16.99912	to praise	Verb	Emotions and values	http://www.omegawiki.org/DefinedMeaning:eulogize_(1093013)		to praise	-		-	-	-	-
+1492	THE EVIL	evil	16.99904	the evil	Noun	Emotions and values	http://www.omegawiki.org/DefinedMeaning:evil_(1098484)		evil	-		-	-	-	-
+1499	TO LOOK FORWARD	look forward	16.99911	to look forward	Verb	Emotions and values	http://www.omegawiki.org/DefinedMeaning:look_forward_(1511072)		to look forward	-		-	-	-	-
+1493	THE MOOD	mood	16.99905	the mood	Noun	Emotions and values	http://www.omegawiki.org/DefinedMeaning:mood_(1463209)		mood	-		-	-	-	-
+1491	THANK YOU!	thank you!	16.99903	thank you!	Function word	Emotions and values	http://www.omegawiki.org/DefinedMeaning:thank_you_(5587)		thank you!	-		-	-	-	-
+1494	THE TROUBLE	trouble	16.99906	the trouble	Noun	Emotions and values	http://www.omegawiki.org/DefinedMeaning:trouble_(335952)		trouble	-		-	-	-	-
+1490	IN VAIN	in vain	16.99902	in vain	Adverb	Emotions and values	http://www.omegawiki.org/DefinedMeaning:vergebens_(714063)		in vain	-		-	-	-	-
+1501	VOLUPTUOUS	voluptuous	16.99913	voluptuous	Adjective	Emotions and values	http://www.omegawiki.org/DefinedMeaning:voluptuous_(994062)		voluptuous	-		-	-	-	-
+1502	WILD	wild	16.99914	wild	Adjective	Emotions and values	http://www.omegawiki.org/DefinedMeaning:wild_(8274)		wild	-	http://www.omegawiki.org/DefinedMeaning:wild_(8269), http://www.omegawiki.org/DefinedMeaning:wild_(8268), http://www.omegawiki.org/DefinedMeaning:feroz_(886778)	-	-	-	-
+1503	WORSE	worse	16.99915	worse	Adjective	Emotions and values	http://www.omegawiki.org/DefinedMeaning:worse_(1511076)		worse	-		-	-	-	-
+1496	TO BE GLAD	be glad	16.99908	to be glad	Verb	Emotions and values	NA		to be glad	-		-	-	-	-
+634	THE BISCUIT	biscuit	5.99906	the biscuit	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:biscuit_(1510510)		biscuit	galleta		-	-	-	-
+635	THE BRANDY	brandy	5.99907	the brandy	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:brandy_(906315)		brandy	brandy		-	-	-	-
+636	THE CABBAGE	cabbage	5.99908	the cabbage	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:cabbage_(344475)		cabbage	repollo		-	-	-	-
+637	THE CASSAVA FLOUR	cassava flour	5.99909	the cassava flour	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:cassava_flour_(1510514)		cassava flour	tapioca		-	-	-	-
+629	THE FIG TREE	fig tree	5.99901	the fig tree	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:fig_tree_(1510506)		fig tree	higuera		-	-	-	-
+640	THE JELLY	jelly	5.99912	the jelly	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:jelly_(6252)		jelly	gelatina		-	-	-	-
+642	THE MOCHI	mochi	5.99914	the mochi	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:mochi_(1510518)		mochi			-	-	-	-
+645	THE MUSUBI	musubi	5.99916	the rice ball or musubi	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:musubi_(1510526)		rice ball or musubi			-	-	-	-
+651	THE TORTILLA	tortilla	5.99921	the tortilla	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:omelette_(332233)		tortilla	tortilla		-	-	-	-
+643	THE RAMEN NOODLES	ramen noodles	5.99915	the ramen noodles	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:ramen_(467328)	called 'saimin' in Hawaii	ramen noodles	fideos japonés ?		-	-	-	-
+647	THE SMOKED FOOD	smoked food	5.99918	the smoked food	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:räuchern_(898998))		smoked food	comida ahumada		-	-	-	-
+644	THE RICE BALL	rice ball	5.99916	the rice ball or musubi	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:rice_ball_(1510522)		rice ball or musubi	bola de arroz ?		-	-	-	-
+638	THE CREAM	cream	5.9991	the cream	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:room_(6929)		cream	nata		-	-	-	-
+630	SATED	sated	5.99902	sated	Adjective	Food and drink	http://www.omegawiki.org/DefinedMeaning:satt_(1188869)	satiated, full up	sated	saciado		-	-	-	-
+631	THE SOY SAUCE	soy sauce	5.99903	the soy sauce	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:Sojasauce_(909894)		soy sauce	salsa de soja, sillao		-	-	-	-
+633	THE BACON	bacon	5.99905	the bacon	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:spek_(859210)		bacon	beicon, tocino		-	-	-	-
+648	THE TAMALE	tamale	5.99919	the tamale	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:tamale_(1510530)		tamale	tamal		-	-	-	-
+652	THE VINEGAR	vinegar	5.99922	the vinegar	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:vinegar_(423392)		vinegar	vinagre		-	-	-	-
+649	THE TOFU	tofu	5.9992	the tofu or bean curd	Noun	Food and drink	http://www.omegawiki.org/DefinedMeaning:who_(5530)		tofu or bean curd			-	-	-	-
+632	THE AYAHUASCA	ayahuasca	5.99904	the ayahuasca	Noun	Food and drink	NA	a psychoactive infusion prepared from the Banisteriopsis spp	ayahuasca			-	-	-	-
+639	THE JAPANESE FISH CAKE	Japanese fish cake	5.99911	the Japanese fish cake	Noun	Food and drink	NA		Japanese fish cake	croqueta de pescado japonésa ?		-	-	-	-
+641	THE MANIOC JUICE	manioc juice	5.99913	the manioc juice	Noun	Food and drink	NA		manioc juice	zumo de la yuca ?		-	-	-	-
+646	THE ROASTED CASSAVA MEAL	roasted cassava meal	5.99917	the roasted cassava meal	Noun	Food and drink	NA		roasted cassava meal			-	-	-	-
+181	THE CO-FATHER-IN-LAW	co-father-in-law	2.99903	the co-father-in-law	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:co-father-in-law_(1394434)	the father-in-law of ego’s child	co-father-in-law	-		-	-	Co-Schwiegervater	-
+182	THE CO-MOTHER-IN-LAW	co-mother-in-law	2.99904	the co-mother-in-law	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:co-mother-in-law_(1394400)	the mother-in-law of ego’s child	co-mother-in-law	-		-	-	Co-Schwiegermutter	-
+184	THE GERMAN	German	2.99906	the German	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:German_(5696)		German	alemán/alemana		Allemand, Allemande	-	Deutscher	-
+195	THE STEPCHILD	stepchild	2.99917	the stepchild	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:hijastro_(454205)		stepchild	hijastro/hijastra		-	-	Stiefkind	-
+185	THE HUNGARIAN	Hungarian	2.99907	the Hungarian	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:Hungarian_(383336)		Hungarian	húngaro/húngara		Hongrois, Hongroise	-	Ungare	-
+194	THE SPOUSE	spouse	2.99916	the spouse	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:Jeshponß_(157536)		spouse	cónyuge		mari, femme, époux	-	Ehegespons	-
+186	THE LOVER	lover	2.99908	the lover	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:lover_(874445)		lover	amante		amant, maîtresse	-	Liebhaber	-
+187	THE MOTHER-IN-LAW	mother-in-law	2.99909	the mother-in-law	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:mother_in_law_(452350)		mother-in-law	suegra		belle-mère	-	Schwiegermutter	-
+193	THE SLOVAK	Slovak	2.99915	the Slovak	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:slovák_(355484)		Slovak	eslovaco/eslovaca		Slovaque	-	Slovake	-
+183	THE FATHER-IN-LAW	father-in-law	2.99905	the father-in-law	Noun	Kinship	http://www.omegawiki.org/DefinedMeaning:suegro_(454081)		father-in-law	suegro		beau-père	-	Schwiegervater	-
+189	THE PARENT'S ELDER BROTHER	parent's elder brother	2.99911	the parent's elder brother	Noun	Kinship	NA		parent's elder brother	-		-	-	Onkel	-
+190	THE PARENT'S ELDER SISTER	parent's elder sister	2.99912	the parent's elder sister	Noun	Kinship	NA		parent's elder sister	-		-	-	Tante	-
+191	THE PARENT'S YOUNGER BROTHER	parent's younger brother	2.99913	the parent's younger brother	Noun	Kinship	NA		parent's younger brother	-		-	-	Onkel	-
+192	THE PARENT'S YOUNGER SISTER	parent's younger sister	2.99914	the parent's younger sister	Noun	Kinship	NA		parent's younger sister	-		-	-	Tante	-
+1779	THE LAWYER	lawyer	21.99901	the lawyer	Noun	Law	http://www.omegawiki.org/DefinedMeaning:lawyer_(350379)		lawyer	-		-	-	-	-
+1780	THE VERDICT	verdict	21.99902	the verdict	Noun	Law	http://www.omegawiki.org/DefinedMeaning:verdict_(1511130)		verdict	-		-	-	-	-
+1903	BUT	but	24.99901	and or but	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:but_(6488)		and or but	-	http://www.omegawiki.org/DefinedMeaning:but_(6484), http://www.omegawiki.org/DefinedMeaning:but_(6485)	-	-	-	-
+1904	CAN	can	24.99902	can	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:can_(6490)		can	-	http://www.omegawiki.org/DefinedMeaning:can_(6491)	-	-	-	-
+1909	NEITHER	neither	24.99908	neither	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:either_(340905)		neither	-	http://www.omegawiki.org/DefinedMeaning:neither_(333981)	-	-	-	-
+1905	HEY!	hey!	24.99904	hey!	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:hello_(5581)		hey!	-	http://www.omegawiki.org/DefinedMeaning:Nanu!_(470951)	-	-	-	-
+1910	NOR	nor	24.99909	nor	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:ni_(1468363)		nor	-		-	-	-	-
+1911	SOMEONE	someone	24.9991	someone	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:someone_(6335)		someone	-	http://www.omegawiki.org/DefinedMeaning:person_(333730)	-	-	-	-
+1913	THEN	then	24.99912	then	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:then_(1360510)		then	-	http://www.omegawiki.org/DefinedMeaning:then_(1379890)	-	-	-	-
+1916	WHICH	which	24.99917	which	Function word	Miscellaneous function words	http://www.omegawiki.org/DefinedMeaning:which_(338249)		which	-	http://www.omegawiki.org/DefinedMeaning:which_(338269)	-	-	-	-
+1902	AND (or BUT)	and	24.99901	and or but	Function word	Miscellaneous function words	NA		and or but	-		-	-	-	-
+1906	(INTERROGATIVE)		24.99905	(interrogative)	Function word	Miscellaneous function words	NA		(interrogative)	-		-	-	-	-
+1907	LET	let	24.99906	let	Function word	Miscellaneous function words	NA		let	-		-	-	-	-
+1908	(NEGATIVE MARKER)		24.99907	(negative marker)	Function word	Miscellaneous function words	NA		(negative marker)	-		-	-	-	-
+1912	(SUPERLATIVE MARKER)		24.99911	(superlative marker)	Function word	Miscellaneous function words	NA		(superlative marker)	-		-	-	-	-
+1914	THEY (DUAL)	they	24.99913	they (dual)	Function word	Miscellaneous function words	NA		they (dual)	-		-	-	-	-
+1915	WE (DUAL INCLUSIVE)	we	24.99914	we (dual inclusive)	Function word	Miscellaneous function words	NA		we (dual inclusive)	-		-	-	-	-
+1917	YOU (DUAL)	you	24.99919	you (dual)	Function word	Miscellaneous function words	NA		you (dual)	-		-	-	-	-
+1887	THE LICENSE	license	23.99901	the license	Noun	Modern world	http://www.omegawiki.org/DefinedMeaning:license_(7668)		license	-		-	-	-	-
+1129	TO ACCOMPANY	accompany	10.99901	to accompany	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:acompañar_(638652)		to accompany	-		-	-	-	-
+1131	TO DIP	dip	10.99904	to dip	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:dip_(1511014)		to dip	-		-	-	-	-
+1133	PASS	pass	10.99906	to pass	Function word	Motion	http://www.omegawiki.org/DefinedMeaning:pass_(842597)		to pass	-		-	-	-	-
+1134	TO STEP	step	10.99907	to step	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:step_(1511017)		to step	-		-	-	-	-
+1135	TO WAIT	wait	10.99908	to wait	Verb	Motion	http://www.omegawiki.org/DefinedMeaning:wait_(6530)		to wait	-		-	-	-	-
+1130	TO CARRY ON THE BACK	carry on the back	10.99903	to carry on the back	Verb	Motion	NA		to carry on back	-		-	-	-	-
+1132	TO GIVE A RIDE	give a ride	10.99905	to give a ride	Verb	Motion	NA		to give a ride	-		-	-	-	-
+1185	THE CARD	card	11.99902	the card	Noun	Possession	http://www.omegawiki.org/DefinedMeaning:card_(6378)		card	-		-	-	-	-
+1188	THE STRING INSTRUMENT	string instrument	11.99905	the string instrument	Noun	Possession	http://www.omegawiki.org/DefinedMeaning:chordofoon_(400958)		string instrument	-		-	-	-	-
+1189	TO BE WORTH	be worth	11.99906	to be worth	Verb	Possession	http://www.omegawiki.org/DefinedMeaning:etmek_(1381836)		to be worth	-		-	-	-	-
+1186	THE GIFT	gift	11.99903	the gift	Noun	Possession	http://www.omegawiki.org/DefinedMeaning:gift_(5611)		gift	-		-	-	-	-
+1184	FOR FREE	for free	11.99901	for free	Adverb	Possession	http://www.omegawiki.org/DefinedMeaning:gratuitement_(1262281)		for free	-		-	-	-	-
+1187	THE PROPERTY	property	11.99904	the property	Noun	Possession	http://www.omegawiki.org/DefinedMeaning:property_(435478)		property	-		-	-	-	-
+1190	THE RECEIVE	receive	11.99907	to receive	Noun	Possession	NA		to receive	-		-	-	-	-
+1312	THE CENTIGRAM	centigram	13.99904	the centigram	Noun	Quantity	http://www.omegawiki.org/DefinedMeaning:centigram_(1279033)		centigram	-		-	-	-	-
+1315	TO FILL	fill	13.99907	to fill	Verb	Quantity	http://www.omegawiki.org/DefinedMeaning:fill_(962533)		to fill	-		-	-	-	-
+1308	A LITTLE	a little	13.99901	a little	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:ligeramente_(904463)		a little	-		-	-	-	-
+1316	SUBSTITUTE	substitute	13.99908	to substitute	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:substitute_(1092173)		to substitute	-		-	-	-	-
+1314	THIRTY	thirty	13.99906	thirty	Function word	Quantity	http://www.omegawiki.org/DefinedMeaning:thirty_(7017)		thirty	-		-	-	-	-
+1313	THE YARD	yard	13.99905	the yard	Noun	Quantity	http://www.omegawiki.org/DefinedMeaning:yard_(339629)		yard	-		-	-	-	-
+1309	BY	by	13.99902	by	Function word	Quantity	NA		by	-		-	-	-	-
+1310	EACH	each	13.99903	each or every	Function word	Quantity	NA		each or every	-		-	-	-	-
+1311	EVERY	every	13.99903	each or every	Function word	Quantity	NA		each or every	-		-	-	-	-
+1812	THE BISHOP	bishop	22.99904	the bishop	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:bishop_(360303)		bishop	-		-	-	-	-
+1811	THE EASTER	Easter	22.99903	Easter	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:Easter_(472531)		Easter	-		-	-	-	-
+1813	THE FUNERAL	funeral	22.99905	the funeral	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:funeral_(159253)		funeral	-		-	-	-	-
+1809	THE CHRIST	Christ	22.99901	Christ	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:gentile_(1171138)		Christ	-		-	-	-	-
+1814	THE HOLIDAY	holiday	22.99906	the holiday	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:holiday_(5833)		holiday	-		-	-	-	-
+1815	THE HYMN	hymn	22.99907	the hymn	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:hymn_(863202)		hymn	-		-	-	-	-
+1810	THE CHRISTMAS	Christmas	22.99902	Christmas	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:Kerstmis_(397467)		Christmas	-		-	-	-	-
+1816	THE LENT	lent	22.99908	the lent	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:Lent_(1190083)		lent	-		-	-	-	-
+1817	THE MUSLIM	Muslim	22.99909	the Muslim	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:musulm%C3%A1n_(799106)		Muslim	-		-	-	-	-
+1818	THE ROSARY	rosary	22.9991	the rosary	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:rosario_(426642)		rosary	-	http://www.omegawiki.org/DefinedMeaning:rosario_(426631)	-	-	-	-
+1819	THE SHAMAN	shaman	22.99911	the shaman	Noun	Religion and belief	http://www.omegawiki.org/DefinedMeaning:shaman_(1511147)		shaman	-		-	-	-	-
+1820	THE SHAMAN'S SPIRIT	shaman's spirit	22.99912	the shaman's spirit	Noun	Religion and belief	NA		shaman's spirit	-		-	-	-	-
+1821	THE SHAMANISTIC SONG	shamanistic song	22.99913	the shamanistic song	Noun	Religion and belief	NA		shamanistic song	-		-	-	-	-
+1822	THE WOMAN'S RATTLE	woman's rattle	22.99914	the woman's rattle	Noun	Religion and belief	NA		woman's rattle	-		-	-	-	-
+1431	BROWN	brown	15.99901	brown	Adjective	Sense perception	http://www.omegawiki.org/DefinedMeaning:brown_(6938)		brown	-		-	-	-	-
+1432	GREY	grey	15.99902	grey	Adjective	Sense perception	http://www.omegawiki.org/DefinedMeaning:grey_(1325782)		grey	-		-	-	-	-
+1433	ORANGE	orange	15.99903	orange	Adjective	Sense perception	http://www.omegawiki.org/DefinedMeaning:orange_(1384019)		orange	-		-	-	-	-
+1434	PINK	pink	15.99904	pink	Adjective	Sense perception	http://www.omegawiki.org/DefinedMeaning:pink_(158482)		pink	-		-	-	-	-
+1436	VIOLET	violet	15.99906	violet	Adjective	Sense perception	http://www.omegawiki.org/DefinedMeaning:roxo_(8416)		violet	-		-	-	-	-
+1435	THE TRACE	trace	15.99905	the trace	Noun	Sense perception	http://www.omegawiki.org/DefinedMeaning:trace_(155151)		trace	-		-	-	-	-
+1659	THE ARABIA	Arabia	19.99901	Arabia	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Arabian_Peninsula_(798969)		Arabia	-		-	-	-	-
+1660	THE AUSTRALIA	Australia	19.99902	Australia	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Australia_(5776)		Australia	-	http://www.omegawiki.org/DefinedMeaning:Australien_(7880)	-	-	-	-
+1694	THE BALLOT	ballot	19.99937	the vote or ballot or pole	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:ballot_(432997)		vote or ballot or pole	-		-	-	-	-
+1676	THE BLACK PERSON	black person	19.99918	the Creole or black person	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:black_(356722)		Creole or black person	-		-	-	-	-
+1670	THE BRAZILIAN	Brazilian	19.99913	the Brazilian	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Brazilian_(482476)		Brazilian	-		-	-	-	-
+1671	THE CERTIFICATE	certificate	19.99914	the certificate	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:certificate_(347504)		certificate	-		-	-	-	-
+1661	THE CHINA	China	19.99903	China	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:China_(155279)		China	-		-	-	-	-
+1672	THE CHINESE PERSON	Chinese person	19.99915	the Chinese person	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Chinese_(734148)		Chinese person	-	http://www.omegawiki.org/DefinedMeaning:Chinese_(492714)	-	-	-	-
+1696	TO COMMIT A CRIME	commit a crime	19.99938	to commit a crime	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:commit_(986514)		to commit a crime	-		-	-	-	-
+1675	THE CREOLE	Creole	19.99918	the Creole or black person	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Creole_(1226180)		Creole or black person	-	http://www.omegawiki.org/DefinedMeaning:Creole_(1226183), http://www.omegawiki.org/DefinedMeaning:Creole_(1226186)	-	-	-	-
+1700	TO SAY GOODBYE	say goodbye	19.99943	to say goodbye	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:despedir_(485497)		to say goodbye	-		-	-	-	-
+1662	THE EGYPT	Egypt	19.99904	Egypt	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Egypt_(8347)		Egypt	-		-	-	-	-
+1674	THE EUROPEAN	European	19.99917	the European	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:European_(8068)		European	-		-	-	-	-
+1677	THE FOOL	fool	19.9992	the fool	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:fool_(6049)		fool	-	http://www.omegawiki.org/DefinedMeaning:patsy_(1164917)	-	-	-	-
+1679	THE FRENCH PERSON	French person	19.99922	the French person	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:French_(5694)		French person	-		-	-	-	-
+1664	THE GREECE	Greece	19.99906	Greece	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Greece_(7958)		Greece	-		-	-	-	-
+1681	THE HERMIT	hermit	19.99924	the hermit	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:hermit_(899362)		hermit	-		-	-	-	-
+1682	THE HOCKEY	hockey	19.99925	the hockey	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:hockey_(505901)		hockey	-		-	-	-	-
+1665	THE INDIA	India	19.99907	India	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:India_(5733)		India	-		-	-	-	-
+1688	THE SETTLEMENT	settlement	19.99932	the settlement	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:insediamento_(515194)		settlement	-		-	-	-	-
+1683	THE LAYMAN	layman	19.99926	the layman	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:leek_(360349)		layman	-		-	-	-	-
+1666	THE MADAGASCAR	Madagascar	19.99908	Madagascar	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Madagascar_(8426)		Madagascar	-		-	-	-	-
+1701	THE MATE	mate	19.99944	mate	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:mate_(1006515)		mate	-		-	-	-	-
+1685	THE PARTNER	partner	19.99928	the partner	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:partner_(335088)		partner	-	http://www.omegawiki.org/DefinedMeaning:associate_(439360)	-	-	-	-
+1686	THE POLICEMAN	policeman	19.9993	the policeman	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:policeman_(8202)		policeman	-		-	-	-	-
+1687	THE POWER	power	19.99931	the power	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:potere_(692473)		power	-		-	-	-	-
+1693	THE VOTE	vote	19.99937	the vote or ballot or pole	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:r%C3%B6st_(158155)		vote or ballot or pole	-		-	-	-	-
+1667	THE RAROTONGA	Rarotonga	19.99909	Rarotonga	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Rarotongan_(1006724)		Rarotonga	-		-	-	-	-
+1698	TO RESPECT	respect	19.99941	to respect	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:respect_(1511098)		to respect	-		-	-	-	-
+1699	TO RETIRE	retire	19.99942	to retire	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:retire_(1343445)		to retire	-		-	-	-	-
+1697	TO QUARREL	quarrel	19.9994	to quarrel	Verb	Social and political relations	http://www.omegawiki.org/DefinedMeaning:se_disputer_(1241323)		to quarrel	-		-	-	-	-
+1668	SIR	Sir	19.9991	Sir	Function word	Social and political relations	http://www.omegawiki.org/DefinedMeaning:sir_(465294)		Sir	-		-	-	-	-
+1690	THE SOCIALISM	socialism	19.99934	the socialism	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:socialism_(7843)		socialism	-		-	-	-	-
+1669	THE SPAIN	Spain	19.99911	Spain	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:Spain_(7965)		Spain	-		-	-	-	-
+1691	THE SPORT	sport	19.99935	the sport	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:sport_(3592)		sport	-		-	-	-	-
+1692	THE STUDENT	student	19.99936	the student	Noun	Social and political relations	http://www.omegawiki.org/DefinedMeaning:student_(5975)		student	-	http://www.omegawiki.org/DefinedMeaning:leerling_(353776)	-	-	-	-
+1663	FREE	free	19.99905	free	Adjective	Social and political relations	NA		free	-		-	-	-	-
+1673	THE COMMUNAL LABOUR	communal labour	19.99916	the communal labour	Noun	Social and political relations	NA		communal labour	-		-	-	-	-
+1678	THE FOREMAN	foreman	19.99921	the foreman	Noun	Social and political relations	NA		foreman	-		-	-	-	-
+1680	THE GOVERNMENT DOCUMENT	government document	19.99923	the government document	Noun	Social and political relations	NA		government document	-		-	-	-	-
+1684	THE MIXED-RACE KALI'NA	mixed-race Kali'na	19.99927	the mixed-race Kali'na	Noun	Social and political relations	NA		mixed-race Kali'na	-		-	-	-	-
+1689	THE SMALL CHANGE	small change	19.99933	the small change	Noun	Social and political relations	NA		small change	-		-	-	-	-
+1695	THE POLE	pole	19.99937	the vote or ballot or pole	Noun	Social and political relations	NA		vote or ballot or pole	-		-	-	-	-
+1266	APART	apart	12.99901	apart	Function word	Spatial relations	http://www.omegawiki.org/DefinedMeaning:aparte_(520618)		apart	-		-	-	-	-
+1267	BACK	back	12.99902	back	Adverb	Spatial relations	http://www.omegawiki.org/DefinedMeaning:back_(5646)		back	-		-	-	-	-
+1618	TO SPELL	spell	18.9991	to spell	Verb	Speech and language	http://www.omegawiki.org/DefinedMeaning:buchstabieren_(413739)		to spell	-		-	-	-	-
+1613	THE CAPITAL LETTER	capital letter	18.99905	the upper case or capital letter	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:capital_letter_(1511084)		upper case or capital letter	-		-	-	-	-
+1616	TO CHAT	chat	18.99908	to chat	Verb	Speech and language	http://www.omegawiki.org/DefinedMeaning:chat_(918205)		to chat	-	http://www.omegawiki.org/DefinedMeaning:chat_(1304122)	-	-	-	-
+1609	THE HIEROGLYPHICS	hieroglyphics	18.99902	the hieroglyph or hieroglyphics	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:escritura_Jerogl%C3%ADfica_egipcia_(639710)		hieroglyph or hieroglyphics	-		-	-	-	-
+1607	THE FAIRY TALE	fairy tale	18.99901	the fairy tale	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:fairy_tale_(377540)		fairy tale	-		-	-	-	-
+1608	THE HIEROGLYPH	hieroglyph	18.99902	the hieroglyph or hieroglyphics	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:hieroglyph_(639674)		hieroglyph or hieroglyphics	-		-	-	-	-
+1610	THE JOKE	joke	18.99903	the joke	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:joke_(7971)		joke	-		-	-	-	-
+1617	TO GREET	greet	18.99909	to greet	Verb	Speech and language	http://www.omegawiki.org/DefinedMeaning:kamauri_(626707)		to greet	-		-	-	-	-
+1611	THE POEM	poem	18.99904	the poem	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:poema_(1473788)		poem	-		-	-	-	-
+1619	TO THANK	thank	18.99911	to thank	Verb	Speech and language	http://www.omegawiki.org/DefinedMeaning:thank_(485242)		to thank	-		-	-	-	-
+1612	THE UPPER CASE	upper case	18.99905	the upper case or capital letter	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:upper_case_(1511080)		upper case or capital letter	-		-	-	-	-
+1614	THE VIOLIN	violin	18.99906	the violin	Noun	Speech and language	http://www.omegawiki.org/DefinedMeaning:violin_(348995)		violin	-		-	-	-	-
+1615	THE VIOLIN PLAYER	violin player	18.99907	the violin player	Noun	Speech and language	NA		violin player	-		-	-	-	-
+1620	THE ULULATE	ululate	18.99912	to ululate	Noun	Speech and language	NA		to ululate	-		-	-	-	-
+531	THE CANINE TOOTH	canine tooth	4.99903	the canine tooth	Noun	The body	http://www.omegawiki.org/DefinedMeaning:canine_(1497826)		canine tooth	(diente) canino		canine	-	-	-
+532	THE CHOLESTEROL	cholesterol	4.99904	the cholesterol	Noun	The body	http://www.omegawiki.org/DefinedMeaning:cholesterol_(438873)		cholesterol	colesterol		cholestérine	-	-	-
+530	SWOLLEN	swollen	4.99902	swollen	Adjective	The body	http://www.omegawiki.org/DefinedMeaning:conceited_(1082323)		swollen	hinchado		gonflé	-	-	-
+535	THE LAP	lap	4.99907	the lap	Noun	The body	http://www.omegawiki.org/DefinedMeaning:haunch_(7919)		lap	regazo		-	-	-	-
+541	TO ITCH	itch	4.99914	to itch	Verb	The body	http://www.omegawiki.org/DefinedMeaning:itch_(1312155)		to itch	picar		-	-	-	-
+536	THE METABOLISM	metabolism	4.99908	the metabolism	Noun	The body	http://www.omegawiki.org/DefinedMeaning:metabolism_(2313)		metabolism	metabolismo		-	-	-	-
+534	THE FIST	fist	4.99906	the fist	Noun	The body	http://www.omegawiki.org/DefinedMeaning:pugno_(615259)		fist	puño		poing	-	-	-
+533	THE DRIBBLE	dribble	4.99905	the dribble	Noun	The body	http://www.omegawiki.org/DefinedMeaning:sabbern_(1351256)		dribble	baba		éclaboussure	-	-	-
+538	THE SCABIES	scabies	4.99911	the scabies	Noun	The body	http://www.omegawiki.org/DefinedMeaning:scabies_(1071412)		scabies	sarna		-	-	-	-
+529	BAREFOOT	barefoot	4.99901	barefoot	Adjective	The body	http://www.omegawiki.org/DefinedMeaning:scalzo_(468880)		barefoot	descalzo		nu-pieds	-	-	-
+537	THE SALIVA	saliva	4.9991	the saliva	Noun	The body	http://www.omegawiki.org/DefinedMeaning:spit_(6259)		saliva	saliva		-	-	-	-
+539	THE STRENGTH	strength	4.99912	the strength	Noun	The body	http://www.omegawiki.org/DefinedMeaning:strength_(1112610)		strength	fuerza		-	-	-	-
+540	THE UMBILICAL CORD	umbilical cord	4.99913	the umbilical cord	Noun	The body	http://www.omegawiki.org/DefinedMeaning:umbilical_cord_(7691)		umbilical cord	cordón umbilical		-	-	-	-
+781	THE BENCH	bench	7.99901	the bench	Noun	The house	http://www.omegawiki.org/DefinedMeaning:banco_(7489)		bench	banco		-	-	-	-
+784	THE GUESTROOM	guestroom	7.99904	the guestroom	Noun	The house	http://www.omegawiki.org/DefinedMeaning:Gästezimmer_(421045)		guestroom	habitación de invitados		-	-	-	-
+783	THE GRIDDLE	griddle	7.99903	the griddle	Noun	The house	http://www.omegawiki.org/DefinedMeaning:griddle_(1510592)		griddle	plancha		-	-	-	-
+785	THE MOSQUITO NET	mosquito net	7.99905	the mosquito net	Noun	The house	http://www.omegawiki.org/DefinedMeaning:mosquito_net_(1510596)		mosquito net	mosquitera		-	-	-	-
+786	THE ROOF TILE	roof tile	7.99906	the roof tile	Noun	The house	http://www.omegawiki.org/DefinedMeaning:roof%20tile%20(1510600)		roof tile	tejado, techo		-	-	-	-
+782	THE CASE	case	7.99902	the case	Noun	The house	NA		case	-		-	-	-	-
+83	THE BEACH	beach	1.99901	the beach	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:beach_(321)	Sandy place on the water shore	beach	playa		plage	-	Strand	-
+93	TO BLAZE	blaze	1.99911	to blaze	Verb	The physical world	http://www.omegawiki.org/DefinedMeaning:blaze_(1510369)		to blaze	resplandecer, brillar ?	http://www.omegawiki.org/DefinedMeaning:blaze_(1510372)	flamber, monter	-	aufflammen	-
+84	THE COAL	coal	1.99903	the coal	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:coal_(625)	black rock from fossilised carbon	coal	carbón		charbon	-	Kohle	-
+85	THE CONSTELLATION	constellation	1.99904	the constellation	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:constellation_(688481)	collection of stars with a culturally determined importance	constellation	constelación		constellation	-	Konstellation	-
+94	TO MELT	melt	1.99912	to melt	Verb	The physical world	http://www.omegawiki.org/DefinedMeaning:fondre_(512864)		to melt	derretir	http://www.omegawiki.org/DefinedMeaning:fondre_(512896)	fondre	-	schmelzen	-
+86	THE JADE	jade	1.99905	the jade or jadeite	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:jade_(535205)	green silicate mineral used in ornaments (jadeite or nephrite)	jade	jade		jade	-	Jade	-
+88	THE LOAM	loam	1.99906	the loam	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:loam_(1505710)	a rich soil consisting of a mixture of sand and clay and decaying organic materials	loam	barro, lodo ?		terreau	-	Lehm	-
+90	THE RIVER MOUTH	river mouth	1.99908	the river mouth	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:Mündung_(700006)		river mouth	desembocadura		embouchure	-	Flussmündung	-
+92	THE SPRING	spring	1.9991	the spring	Noun	The physical world	http://www.omegawiki.org/DefinedMeaning:spring_(6361)		spring	primavera ?		printemps	-	Frühling	-
+91	THE SHORT DRY SEASON	short dry season	1.99909	the short dry season	Noun	The physical world	NA		short dry season	corta estación seca ?		-	-	Trockenzeit	-
+1375	THE CHINESE NEW YEAR	Chinese New Year	14.99901	Chinese New Year	Noun	Time	http://www.omegawiki.org/DefinedMeaning:Chinese%20New%20Year%20(1511035)		Chinese New Year	-		-	-	-	-
+1376	LONG AGO	long ago	14.99902	long ago	Adverb	Time	http://www.omegawiki.org/DefinedMeaning:long_ago_(1511039)		long ago	-		-	-	-	-
+1377	THE NEW YEAR	New Year	14.99903	New Year	Noun	Time	http://www.omegawiki.org/DefinedMeaning:New_Year_(403368)		New Year	-		-	-	-	-
+1378	THE PERIOD	period	14.99905	the period	Noun	Time	http://www.omegawiki.org/DefinedMeaning:period_(343420)		period	-		-	-	-	-
+1379	THE TIME (REOCCURRING OCCASION ON WHICH SOMETHING HAPPENS)	time	14.99906	the time(2)	Noun	Time	http://www.omegawiki.org/DefinedMeaning:time_(1511042)		time(2)	-		-	-	-	-
+1749	TO ATTACK	attack	20.99907	to attack	Verb	Warfare and hunting	http://www.omegawiki.org/DefinedMeaning:attack_(6561)		to attack	-		-	-	-	-
+1744	THE CUTLASS	cutlass	20.99902	the cutlass	Noun	Warfare and hunting	http://www.omegawiki.org/DefinedMeaning:cutlass_(1511118)		cutlass	-		-	-	-	-
+1750	TO FISH	fish	20.99908	to fish	Verb	Warfare and hunting	http://www.omegawiki.org/DefinedMeaning:fish_(1157951)		to fish	-		-	-	-	-
+1745	THE FORCE	force	20.99903	the force	Noun	Warfare and hunting	http://www.omegawiki.org/DefinedMeaning:force_(6164),		force	-	http://www.omegawiki.org/DefinedMeaning:force_(1047782), http://www.omegawiki.org/DefinedMeaning:force_(1047801)	-	-	-	-
+1748	THE WARSHIP	warship	20.99906	the warship	Noun	Warfare and hunting	http://www.omegawiki.org/DefinedMeaning:warship_(1511122)		warship	-		-	-	-	-
+1751	TO WIN	win	20.99909	to win	Verb	Warfare and hunting	http://www.omegawiki.org/DefinedMeaning:win_(367675),		to win	-	http://www.omegawiki.org/DefinedMeaning:lograr_(483003)	-	-	-	-
+1746	THE GAME ANIMAL	game animal	20.99904	the game animal	Noun	Warfare and hunting	NA		game animal	-		-	-	-	-
+1747	THE LETTERWOOD BOW	letterwood bow	20.99905	the letterwood bow	Noun	Warfare and hunting	NA		letterwood bow	-		-	-	-	-
