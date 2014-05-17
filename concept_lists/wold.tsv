@@ -346,7 +346,6 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 858	3.75	DEER	Animals	Noun
 345406	20.42	DEFEAT	Warfare and hunting	Noun
 5818	20.44	DEFEND	Warfare and hunting	Verb
-956366	11.24	PRESERVE	Possession	Verb
 442442	21.22	DEFENDANT	Law	Noun
 915102	22.35	DEMON	Religion and belief	Noun
 341655	18.34	DENY	Speech and language	Verb
@@ -359,7 +358,6 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 6024	8.22	DIG	Agriculture and vegetation	Verb
 1510840	8.28	DIGGING STICK	Agriculture and vegetation	Noun
 7654	5.44	DINNER	Food and drink	Noun
-7654	5.45	SUPPER	Food and drink	Noun
 5483	15.88	DIRTY	Sense perception	Adjective
 155161	10.491	DISAPPEAR	Motion	Verb
 941	4.844	DISEASE	The body	Noun
@@ -449,10 +447,10 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 6672	14.21	FAST	Time	Adverb
 5624	5.791	FAT	Food and drink	Noun
 5464	2.35	FATHER	Kinship	Noun
-936030	2.512	FATHER'S BROTHER	Kinship	Noun
-1372531	2.522	FATHER'S SISTER	Kinship	Noun
 454081	2.61	FATHER-IN-LAW	Kinship	Noun
 454081	2.611	FATHER-IN-LAW	Kinship	Noun
+936030	2.512	FATHER'S BROTHER	Kinship	Noun
+1372531	2.522	FATHER'S SISTER	Kinship	Noun
 1153477	12.541	FATHOM	Spatial relations	Noun
 622752	23.5	FAUCET	Modern world	Noun
 1280872	16.76	FAULT	Emotions and values	Noun
@@ -831,10 +829,10 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 6563	22.132	MOSQUE	Religion and belief	Noun
 630453	3.832	MOSQUITO	Animals	Noun
 5463	2.36	MOTHER	Kinship	Noun
-936024	2.511	MOTHER'S BROTHER	Kinship	Noun
-1372595	2.521	MOTHER'S SISTER	Kinship	Noun
 452350	2.62	MOTHER-IN-LAW	Kinship	Noun
 452350	2.621	MOTHER-IN-LAW	Kinship	Noun
+936024	2.511	MOTHER'S BROTHER	Kinship	Noun
+1372595	2.521	MOTHER'S SISTER	Kinship	Noun
 1200	23.185	MOTOR	Modern world	Noun
 2414	23.135	MOTORCYCLE	Modern world	Noun
 2421	1.22	MOUNTAIN	The physical world	Noun
@@ -1007,6 +1005,7 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 1509379	22.22	PREACH	Religion and belief	Verb
 1875	1.222	PRECIPICE	The physical world	Noun
 489482	4.73	PREGNANT	The body	Adjective
+956366	11.24	PRESERVE	Possession	Verb
 381596	23.31	PRESIDENT	Modern world	Noun
 842520	9.342	PRESS	Basic actions and technology	Verb
 6391	19.59	PREVENT	Social and political relations	Verb
@@ -1166,8 +1165,8 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 1508293	18.18	SHRIEK	Speech and language	Verb
 448880	12.25	SHUT	Spatial relations	Verb
 6732	2.456	SIBLING	Kinship	Noun
-1373556	2.541	SIBLING'S CHILD	Kinship	Noun
 765010	2.6412	SIBLING-IN-LAW	Kinship	Noun
+1373556	2.541	SIBLING'S CHILD	Kinship	Noun
 7800	4.84	SICK	The body	Adjective
 1510850	8.33	SICKLE	Agriculture and vegetation	Noun
 333652	12.36	SIDE	Spatial relations	Noun
@@ -1289,6 +1288,7 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 5848	14.76	SUMMER	Time	Noun
 5850	1.52	SUN	The physical world	Noun
 6993	14.62	SUNDAY	Time	Noun
+7654	5.45	SUPPER	Food and drink	Noun
 6444	16.15	SURPRISED	Emotions and values	Adjective
 699169	20.46	SURRENDER	Warfare and hunting	Verb
 7724	17.44	SUSPECT	Cognition	Verb
@@ -1389,7 +1389,6 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 1510861	8.73	TREE TRUNK	Agriculture and vegetation	Noun
 1412223	7.48	TROUGH	The house	Noun
 349559	6.48	TROUSERS	Clothing and grooming	Noun
-6816	16.66	TRUE	Emotions and values	Adjective
 344567	18.73	TRUMPET	Speech and language	Noun
 7471	17.48	TRY	Cognition	Verb
 6991	14.64	TUESDAY	Time	Noun
@@ -1515,3 +1514,4 @@ OMEGAWIKI	WOLD	GLOSS	SEMANTICFIELD	POS
 1539816	2.4562	YOUNGER SIBLING	Kinship	Noun
 7132	2.455	YOUNGER SISTER	Kinship	Noun
 5653	13	ZERO	Quantity	Function word
+6816	16.66	TRUE	Emotions and values	Adjective
