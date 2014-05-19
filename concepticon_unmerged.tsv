@@ -1,6 +1,6 @@
 # CONCEPTICON
 # Created by: QLC Research Group
-# Created on: 2014-05-19 08:16
+# Created on: 2014-05-14 13:38
 OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 7064	-	ABOVE	Spatial relations	In or to a higher place; higher than; on or over the upper surface.	Function word	12.081
 751478	541549	ACCUSE	Law	To lay a charge against; bring an accusation against.	Verb	21.31
@@ -127,7 +127,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 468867	-	BILL	Possession	Sum owed in a restaurant, or the relative bill.	Noun	11.66
 7898	-	BIRCH	Agriculture and vegetation	A tree of the genus Betula, with small leaves and a trunk that is white with darker blotches.	Noun	8.63
 400	-	BIRD	Animals	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	Noun	3.581
-1511158	-	BIRTH CERTIFICATE	Modern world	official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.	Noun	23.36
+1511158	-	BIRTH CERTIFICATE	Modern world	official document certifying the details of a person's birth. Name, date, and parents' names are always included; details such as parents' occupation and religion may be included.  	Noun	23.36
 5993	-	BITE	The body	To cut off a piece by clamping the teeth.	Verb	4.58
 375671	-	BITTER	Sense perception	Having an acrid taste.	Adjective	15.37
 1341728	-	BLACK	Sense perception	Dark and colourless; not reflecting visible light.	Adjective	15.65
@@ -273,7 +273,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 5722	-	CLEVER	Emotions and values	Mentally agile.	Adjective	16.84
 4261	-	CLIFF	The physical world	A steep coastal declivity which may or may not be precipitous, the slope angle being dependent partly on the jointing, bedding and hardness of the materials from which the cliff has been formed, and partly on the erosional processes at work. Where wave attack is dominant the cliff-foot will be rapidly eroded and cliff retreat will take place, especially in unconsolidated materials such as clays, sands, etc., frequently leaving behind an abrasion platform at the foot of the cliff. (Source: WHIT)	Noun	1.222
 479387	-	CLIMB	Motion	To mount to a high or little accessible place using feet and hands.	Verb	10.472
-1510537	-	CLOAK	Clothing and grooming	A long outer garment worn over the shoulders covering the back; a cape, often with a hood.	Noun	6.41
+1510537	-	CLOAK	Clothing and grooming	A long outer garment worn over the shoulders covering the back; a cape, often with a hood.  	Noun	6.41
 5790	-	CLOCK	Time	An instrument used to measure or keep track of time.	Noun	14.53
 6620	-	CLOTH	Clothing and grooming	A woven fabric such as used in dressing, decorating, cleaning or other practical use.	Noun	6.21
 8254	621	CLOTHES	Clothing and grooming	All coverings designed to be worn on a person's body.	Noun	6.12
@@ -470,7 +470,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 345325	-	FEAR	Emotions and values	An emotion experienced in anticipation of some specific pain or danger.	Noun	16.53
 5436	-	FEATHER	The body	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	Noun	4.393
 467089	343166;343171	FEEL	Sense perception	To be in some emotional state.	Verb	15.72
-1510534	-	FELT	Clothing and grooming	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.	Noun	6.27
+1510534	-	FELT	Clothing and grooming	A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.  	Noun	6.27
 6392	-	FEMALE	Animals	A member of the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	3.13
 6393	-	FEMALE	Kinship	Of, relating to, or denoting the sex which is generally characterized as the one associated with the larger gametes (for species which have two sexes and for which this distinction can be made).	Adjective	2.24
 698534	-	FENCE	Agriculture and vegetation	Delimitation for an area.	Noun	8.16
@@ -1016,7 +1016,7 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 2847	-	POISON	The body	A substance which, when ingested, inhaled, or absorbed, or when applied to, injected into, or developed within the body, in relatively small amounts, may cause injury, harm, or destruction to organs, tissue, or life.	Noun	4.89
 1506095	-	POLE	The house	A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something	Noun	7.56
 2852	-	POLICE	Modern world	Branch of the government which is charged with the preservation of public order, the promotion of public health and safety, and the prevention, detection, and punishment of crimes.	Noun	23.33
-1510543	-	PONCHO	Clothing and grooming	A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.	Noun	6.411
+1510543	-	PONCHO	Clothing and grooming	A simple garment, made from a rectangle of cloth, with a slit in the middle for the head.  	Noun	6.411
 6897	-	POOR	Possession	With little or no possessions or money.	Adjective	11.52
 1210547	-	PORPOISE	Animals	A short-snouted genus of the dolphin family, 1.2 to 2.5 metres (4 to 8 feet) long, gregarious in habits, yielding an oil and leather.	Noun	3.662
 1717	-	PORT	Motion	Area of water next to the coast, often surrounded by thick walls, where ships and boats can be sheltered.	Noun	10.91
@@ -1551,55 +1551,3 @@ OMEGAWIKI	SEEALSO	GLOSS	SEMANTICFIELD	DEFINITION	POS	WOLD
 1539816	-	YOUNGER SIBLING	Kinship	A person who is born after another person who has the same parents.	Noun	2.4562
 7132	-	YOUNGER SISTER	Kinship	A female who is younger than one or more of her siblings.	Noun	2.455
 5653	809644	ZERO	Quantity	The cardinal number that denotes no quantity or amount at all.	Function word	13
-416275	-	PEBBLES	-	Small stone abraded by water.	-	-
-1541173	-	BLOWGUN	-	a pipe or tube through which darts or other missiles are blown by the breath.	-	-
-6259	-	SALIVA	-	A secretion from the salivary glands (found in the mouth) that can be spat out.	-	-
-1541204	-	GUAN	-	a large game bird of the curassow family, common in dense woodlands of Central and South America.	-	-
-1292296	-	COCA	-	A plant in the family Erythroxylaceae, native to western South America.	-	-
-1510464	-	PIRANHA	-	Any of the carnivorous freshwater fish living in South American rivers and belonging to the subfamily Serrasalminae.	-	-
-1541261	-	LOWER LEG	-	part of the leg between the knee and the foot.	-	-
-652702	-	HUMMINGBIRD	-	A small bird in the family Trochilidae.	-	-
-1541248	-	LONG HAIR	-	Hair that is not cut.	-	-
-1510885	-	ACHIOTE	-	A derivative of the achiote trees of tropical regions of the Americas used as a red food coloring and as a flavoring.	-	-
-763	-	CORAL SNAKE	-	The skeleton of certain solitary and colonial anthozoan coelenterates; composed chiefly of calcium carbonate.	-	-
-8038	-	BUZZARD	-	Diurnal bird of prey belonging to the Accipitridae family.	-	-
-647456	-	IGUANA	-	(Iguanidae)A lizard family.	-	-
-1398936	-	SHIN	-	The front part of the leg below the knee.	-	-
-1541252	-	UPPER BACK	-	upper part of the back.	-	-
-1541194	-	COLLARED PECCARY	-	piglike hoofed mammal of the genus Tayassu,  of North and South America,  having a dark gray coat with a white collar.	-	-
-667122	-	MACAW	-	Large colorful parrots of the Americas, classified into six of the many Psittacidae genera: Ara, Anodorhynchus, Cyanopsitta, Primolius, Orthopsittaca, and Diopsittaca.	-	-
-1541256	-	LOWER ARM	-	the part of the arm between the elbow and the hand.	-	-
-1505835	-	BANISTERIUM	-	A psychoactive infusion prepared from the Banisteriopsis spp.	-	-
-817621	-	ARMADILLO	-	(family Dasypodidae) Burrowing chiefly nocturnal mammal with body covered with strong horny plates.	-	-
-7489	-	SEAT, STOOL	-	Seat for more than one person, narrow and long, with or without back support, made of hard materials (wood, metal), that is normally found in public places (churches, parks, etc.).	-	-
-1541242	-	TIP OF TONGUE	-	front part of the tongue.	-	-
-348242	-	ADAM’S APPLE	-	A lump at the front of the neck.	-	-
-1510408	-	AGOUTI	-	A rodent similar in appearance to a guinea pig but having longer legs.	-	-
-1541265	-	STORM CLOUDS	-	darkish clouds attending a windstorm.	-	-
-1541200	-	WHITE-LIPPED PECCARY	-	piglike hoofed mammal, of North and South America, having a black gray coat with whitish cheeks; larger than the collared peccary.	-	-
-1541269	-	CORN FIELD	-	a field in which corn is grown.	-	-
-1541228	-	CHONTA PALM	-	species of flowering plant in the Arecaceae family,trunked palm tree which is endemic to the Juan Fernández Islands archipielago in the southeast Pacific Ocean west of Chile.	-	-
-870564	-	CROWN OF HEAD	-	A royal, imperial or princely headdress; a diadem.	-	-
-1541167	-	UPPER ARM	-	the part of the arm between the shoulder and the elbow.	-	-
-1510514	-	MANIOC FLOUR	-	Flour made of the cassava plant or root.	-	-
-686508	-	RAPIDS	-	Fast flowing section of a stream, often shallow and with exposed rock or boulders.	-	-
-1541184	-	HOWLER MONKEY	-	large, prehensile-tailed tropical American monkey of the genus Alouatta,  the males of which make a howling noise	-	-
-1510442	-	CURASSOW	-	A bird, the crested curassow or royal pheasant.	-	-
-370629	-	RATTLESNAKE	-	-	-	-
-3784	-	TOAD	-	Any anuran amphibian of the family Bufonidae, such as Bufo bufo of Europe. They are similar to frogs but are more terrestrial, having a drier warty skin.	-	-
-3788	-	TORTOISE	-	Any herbivorous terrestrial chelonian reptile of the family Testudinidae, of most warm regions, having a heavy dome-shaped shell and clawed limbs.	-	-
-5447	-	FOUR	-	The fourth natural number (4).	-	-
-962485	-	MASK	-	A cover, or partial cover, for the face, used for disguise or protection.	-	-
-1510460	-	PACA	-	A large rodent, with dark brown or black fur, a white or yellowish underbelly and rows of white spots along its sides, native to Central America and South America.	-	-
-375199	-	PARAKEET	-	Any of several slender species of parrot.	-	-
-1541208	-	CHIGGOE, JIGGER FLEA	-	a flea, Tunga penetrans,  of tropical America and Africa, the impregnated female of which embeds itself in the skin, especially of the feet, of humans and animals and becomes greatly distended with eggs.	-	-
-379150	-	ANACONDA, WATER BOA	-	Any of various large non-venomous snakes of the genus Eunectes, found mainly in northern South America.	-	-
-1541218	-	CEBUS MONKEY	-	a Central and South American monkey, Cebus capucinus,  having a prehensile tail and hair on the head resembling a cowl.	-	-
-4307	-	SHELTER	-	Cover or protection, as from weather or danger; place of refuge.
-(Source: CED)	-	-
-1541236	-	FRONT TEETH, INEISORS	-	several teeth located above and below in the mouth of mammals to bite food off.	-	-
-6933	-	BUSH	-	A plant resembling a small tree, but has no, and will never develop, a stem.	-	-
-1541232	-	CHICHA	-	a beverage made from fermented corn in South and Central America.	-	-
-1510424	-	CAPYBARA	-	The largest living rodent native to South America, living partly on land and partly in water.	-	-
-1511147	-	SHAMAN, FOLK HEALER	-	A traditional (prescientific) faith healer; a member of certain tribal societies who acts as a religious medium between the concrete and spirit worlds.	-	-
-1541190	-	SPIDER MONKEY	-	tropical American monkey of the genus Ateles,  having a slender body, long, slender limbs, and a long, prehensile tail.	-	-
